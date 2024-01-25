@@ -1,7 +1,7 @@
 
 Command line:
 
-python3 main.py username repository --branch <branch_name> --commits_num <num>
+python3 main.py username repository --branch <branch_name> --commits_num <num> 
 
 Optional flags: --branch ; --commits_num  (int)
 
